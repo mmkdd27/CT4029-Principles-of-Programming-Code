@@ -11,5 +11,4 @@ elif 46350 >= gross_salary > 11850:
 elif 11850 > gross_salary:
     print("Your Net Salary After Deduction is:",gross_salary)
     print("you are in the 0% tax bracket and there was no tax deducted" )
-else:
-    print("idk")
+
