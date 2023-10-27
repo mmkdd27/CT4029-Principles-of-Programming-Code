@@ -1,4 +1,5 @@
 import sqlite3
+
 conn = sqlite3.connect('grades.db')
 cursor = conn.cursor()
 create_table = """
@@ -13,7 +14,8 @@ cursor.execute(create_table)
 conn.commit()
 conn.close()
 
-def module_selcter():
+
+def module_selector():
     module = str(input("""please choose a module:
      [a]-CT4010 Computers and Security
      [b]-CT4022 Principles of Cyber Forensics
@@ -53,7 +55,7 @@ def module_translator(module):
         return module_code, module_name
     else:
         print("please select a module form the list ")
-        module_selcter()
+        module_selector()
 
 
 def CATS_selector():
@@ -61,7 +63,7 @@ def CATS_selector():
     if CATS == 15 or CATS == 30:
         return CATS
     else:
-        print("a modle can have 15 or 30 CATS points ,please reenter")
+        print("a module can have 15 or 30 CATS points ,please reenter")
         CATS_selector()
 
 
@@ -70,12 +72,13 @@ def grades_input(CATS):
         grade = int(input("please enter your grade : %"))
         return grade
     elif CATS == 30:
-        grade1= int(input("please enter your grade for the first assignment : %"))
-        grade2= int(input("please enter your grade for the second assignment : %"))
-        grade = (grade2+grade1)*0.5
+        grade1 = int(input("please enter your grade for the first assignment : %"))
+        grade2 = int(input("please enter your grade for the second assignment : %"))
+        grade = (grade2 + grade1) * 0.5
         return grade
 
-def insert_data(CATS,module_code,module_name,grade):
+
+def insert_data(CATS, module_code, module_name, grade):
     conn2 = sqlite3.connect('grades.db')
     cursor2 = conn2.cursor()
 
@@ -87,11 +90,12 @@ def insert_data(CATS,module_code,module_name,grade):
 
 
 def data_entry():
-    module = module_selcter()
+    module = module_selector()
     module_code, module_name = module_translator(module)
     CATS = CATS_selector()
     grade = grades_input(CATS)
-    insert_data(CATS, module_code, module_name)
+    insert_data(CATS, module_code, module_name, grade)
+
 
 def gui1():
     option = str(input("""please choose an option
@@ -99,7 +103,7 @@ def gui1():
     [b]-see my grades
      [a]/[b] : """))
     option.lower()
-    if option == "a" or option == "b" :
+    if option == "a" or option == "b":
         if option == "a":
             number_of_modules = int(input("hoe many modules do you wish to enter ? : "))
             for i in range(0, number_of_modules):
@@ -129,16 +133,11 @@ def gui1():
 
 
 def data_entry():
-    module = module_selcter()
+    module = module_selector()
     module_code, module_name = module_translator(module)
     CATS = CATS_selector()
     grade = grades_input(CATS)
-    insert_data(CATS,module_code,module_name,grade)
+    insert_data(CATS, module_code, module_name, grade)
+
 
 gui1()
-
-
-
-
-
-

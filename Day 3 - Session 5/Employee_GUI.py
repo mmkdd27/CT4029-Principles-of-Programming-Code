@@ -1,6 +1,7 @@
 import tkinter
 import sqlite3
 
+
 def create_table():
     conn = sqlite3.connect('self_register.db')
     cursor = conn.cursor()
@@ -16,6 +17,7 @@ def create_table():
     cursor.execute(create_table_query)
     conn.commit()
     conn.close()
+
 
 def register_user():
     def save():
@@ -33,33 +35,34 @@ def register_user():
         conn.close()
         print("User registered successfully!")
 
-    registeration = tkinter.Tk()
-    registeration.title("Employee Registration")
+    registration = tkinter.Tk()
+    registration.title("Employee Registration")
 
-    id_label = tkinter.Label(registeration, text="Enter employee id here:")
+    id_label = tkinter.Label(registration, text="Enter employee id here:")
     id_label.pack()
-    id_entry = tkinter.Entry(registeration)
+    id_entry = tkinter.Entry(registration)
     id_entry.pack()
 
-    name_label = tkinter.Label(registeration, text="Enter your name here:")
+    name_label = tkinter.Label(registration, text="Enter your name here:")
     name_label.pack()
-    name_entry = tkinter.Entry(registeration)
+    name_entry = tkinter.Entry(registration)
     name_entry.pack()
 
-    email_label = tkinter.Label(registeration, text="Enter your email here:")
+    email_label = tkinter.Label(registration, text="Enter your email here:")
     email_label.pack()
-    email_entry = tkinter.Entry(registeration)
+    email_entry = tkinter.Entry(registration)
     email_entry.pack()
 
-    password_label = tkinter.Label(registeration, text="Enter your password here:")
+    password_label = tkinter.Label(registration, text="Enter your password here:")
     password_label.pack()
-    password_entry = tkinter.Entry(registeration, show='*')
+    password_entry = tkinter.Entry(registration, show='*')
     password_entry.pack()
 
-    register_button = tkinter.Button(registeration, text="Register", command=save)
+    register_button = tkinter.Button(registration, text="Register", command=save)
     register_button.pack(pady=5)
 
-    registeration.mainloop()
+    registration.mainloop()
+
 
 def check_access():
     def verify_access():
@@ -98,6 +101,7 @@ def check_access():
     verify_button.pack(pady=5)
 
     access_window.mainloop()
+
 
 create_table()
 register_user()

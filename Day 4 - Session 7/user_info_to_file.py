@@ -30,7 +30,6 @@ def age_func():
         age_func()
 
 
-
 def gender_func():
     while True:
         check = input("do you wish to share your gender ? [y]/[n] : ")
@@ -45,63 +44,61 @@ def gender_func():
             else:
                 print("please enter a valid option")
 
-def stro_finder():
+
+def astro_finder():
     try:
         month = int(input("what month where you born ? (enter it as an number, for instance january as 1 : "))
         day = int(input("what day were you born ? : "))
         if month == 1 and day <= 19:
-            return ("Capricorn")
+            return "Capricorn"
         elif month == 1 and day > 19:
-            return ("Aquarius️")
+            return "Aquarius"
         elif month == 2 and day <= 18:
-            return("Aquarius️")
+            return "Aquarius"
         elif month == 2 and day > 18:
-            return("Pisces️️")
+            return "Pisces️️"
         elif month == 3 and day <= 19:
-            return("Pisces️")
-        elif month == 4 and day > 20:
-            return("Pisces️")
+            return "Pisces"
         elif month == 3 and day <= 20:
-            return("Aries️")
+            return "Aries"
         elif month == 4 and day <= 19:
-            return("Aries️")
+            return "Aries"
         elif month == 4 and day > 19:
-            return("Taurus️")
+            return "Taurus"
         elif month == 5 and day <= 20:
-            return("Taurus️")
+            return "Taurus"
         elif month == 5 and day > 20:
-            return("Gemini️")
+            return "Gemini"
         elif month == 6 and day <= 20:
-            return("Gemini️")
+            return "Gemini"
         elif month == 6 and day > 20:
-            return("Cancer️")
+            return "Cancer"
         elif month == 7 and day <= 22:
-            return("Cancer️")
+            return "Cancer"
         elif month == 7 and day > 22:
-            return("Leo️")
+            return "Leo"
         elif month == 8 and day <= 22:
-            return("Leo️")
+            return "Leo"
         elif month == 8 and day > 22:
-            return("Virgo️")
+            return "Virgo"
         elif month == 9 and day <= 22:
-            return("Virgo")
+            return "Virgo"
         elif month == 9 and day > 22:
-            return("Libra️")
+            return "Libra"
         elif month == 10 and day <= 22:
-            return("Libra️")
+            return "Libra"
         elif month == 10 and day > 22:
-            return("Scorpio️")
+            return "Scorpio"
         elif month == 11 and day <= 21:
-            return("Scorpio")
+            return "Scorpio"
         elif month == 11 and day > 21:
-            return("Sagittarius️")
+            return "Sagittarius"
         elif month == 12 and day <= 21:
-            return("Sagittarius️")
+            return "Sagittarius"
         elif month == 12 and day > 21:
-            return("Capricorn")
+            return "Capricorn"
     except ValueError:
-     print("in number form !")
-
+        print("in number form !")
 
 
 def sign_checker(sign):
@@ -134,22 +131,23 @@ def sign_checker(sign):
     else:
         return False
 
+
 def sign_func():
     while True:
         check = input("do you know your astronomical sign ? [y]/[n] : ")
-        check.lower()
+        check = check.lower()
         if check == "n" or check == "y":
             if check == "y":
                 sign = input("what is it ? : ")
-                return sign.lower()
+                if sign_checker(sign):
+                    return sign.lower()
+                else:
+                    print("sorry i cant seem to recognize this sign")
             elif check == "n":
-                sign = stro_finder().lower()
+                sign = astro_finder().lower()
                 return sign
-            elif sign_checker(sign) is False:
-                print("sorry i cant seem to recognize this sign")
             else:
                 print("please enter a valid option")
-
 
 
 def save_data():
@@ -160,7 +158,8 @@ def save_data():
     age = str(age_func())
     gender = str(gender_func())
     sign = sign_func()
-    user_data = [first_name,last_name,middle_name,age,gender,sign ]
+    user_data = [first_name, last_name, middle_name, age, gender, sign]
     writer.writelines(user_data)
+
 
 save_data()

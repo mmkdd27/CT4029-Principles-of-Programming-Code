@@ -1,4 +1,4 @@
-pete_song = open("im_just_pete.txt","r")
+pete_song = open("im_just_pete.txt", "r")
 word = str(input("please enter your word : ")).lower()
 word_counter = 0
 for i in pete_song:
@@ -7,5 +7,5 @@ for i in pete_song:
         word.lower()
     word_counter += words.count(word)
 
-print (word_counter)
+print(word_counter)
 pete_song.close()

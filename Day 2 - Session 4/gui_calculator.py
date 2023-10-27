@@ -1,8 +1,9 @@
 import tkinter
 
+
 def calculate():
-    value1 = int(entry1.get())
-    value2 = int(entry2.get())
+    value1 = int(entry1.getint())
+    value2 = int(entry2.getint())
     operation = choice.get()
 
     if operation == 1:
@@ -13,6 +14,8 @@ def calculate():
         result.set(value1 * value2)
     elif operation == 4:
         result.set(value1 / value2)
+
+
 calculator = tkinter.Tk()
 calculator.title("Simple Calculator")
 
