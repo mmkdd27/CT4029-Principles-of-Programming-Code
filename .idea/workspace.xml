@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="panda scripts">
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/four_zeros_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/matrix_creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/matrix_mean_standerd_deviation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/nine_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/one_to_five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5 - Session 9/ten_to_fourthy_nine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
