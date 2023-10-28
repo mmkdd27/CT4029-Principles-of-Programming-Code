@@ -4,31 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="">
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="panda scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1 - Session 2/Factor_Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 - Session 2/Factor_Finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Session 3/Net_Salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 - Session 3/Net_Salary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Session 3/Triangle_Maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 - Session 3/Triangle_Maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Session 4/gui_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 - Session 4/gui_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Session 4/multi_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 - Session 4/multi_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Session 4/square_root_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 - Session 4/square_root_GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 5/Delete_Technicians.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 5/Delete_Technicians.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 5/Employee_Database_Creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 5/Employee_Database_Creation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 5/Employee_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 5/Employee_GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 5/Manager_to_Technition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 5/Manager_to_Technition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 5/Retrieve_Managers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 5/Retrieve_Managers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 6/common_element_in_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 6/common_element_in_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 6/duplicate_remover.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 6/duplicate_remover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Session 6/grades_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3 - Session 6/grades_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Session 7/bounes_adder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4 - Session 7/bounes_adder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Session 7/file_word_frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4 - Session 7/file_word_frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Session 7/line_to_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4 - Session 7/line_to_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Session 7/user_info_to_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4 - Session 7/user_info_to_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mmkdd27/Documents/GitHub/CT4029-Principles-of-Programming-Code",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mmkdd27/Documents/GitHub/CT4029-Principles-of-Programming-Code&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +51,18 @@
       <option name="presentableId" value="Default" />
       <updated>1698438807792</updated>
     </task>
+    <task id="LOCAL-00001" summary="panda scripts">
+      <created>1698486290768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698486290768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="panda scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="panda scripts" />
   </component>
 </project>
