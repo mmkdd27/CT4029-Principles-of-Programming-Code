@@ -1,19 +1,20 @@
 import sqlite3
 
-conn = sqlite3.connect('grades.db')
-cursor = conn.cursor()
-create_table = """
-CREATE TABLE IF NOT EXISTS grades (
-    module_code TEXT,
-    grade TEXT,
-    CATS TEXT,
-    module_name TEXT
-);
-"""
-cursor.execute(create_table)
-conn.commit()
-conn.close()
-
+def table_maker():
+    conn = sqlite3.connect('grades.db')
+    cursor = conn.cursor()
+    create_table = """
+    CREATE TABLE IF NOT EXISTS grades (
+        module_code TEXT,
+        grade TEXT,
+        CATS TEXT,
+        module_name TEXT
+    );
+    """
+    cursor.execute(create_table)
+    conn.commit()
+    conn.close()
+table_maker()
 
 def module_selector():
     module = str(input("""please choose a module:
@@ -101,9 +102,10 @@ def gui1():
     option = str(input("""please choose an option
     [a]-enter my grades
     [b]-see my grades
-     [a]/[b] : """))
+    [d]-delete my grades
+     [a]/[b]/[d] : """))
     option.lower()
-    if option == "a" or option == "b":
+    if option == "a" or option == "b" or option == "d":
         if option == "a":
             number_of_modules = int(input("hoe many modules do you wish to enter ? : "))
             for i in range(0, number_of_modules):
@@ -116,6 +118,13 @@ def gui1():
             for row in rows:
                 print(row)
             con3.close()
+        if option == "d":
+            check = option = str(input("""please conform by writing delete  : """))
+            if check == "delete":
+                data_deletion()
+            else:
+                print(" the attempt was unsuccessful ")
+
 
     else:
         print("please enter a valid option")
@@ -138,6 +147,12 @@ def data_entry():
     CATS = CATS_selector()
     grade = grades_input(CATS)
     insert_data(CATS, module_code, module_name, grade)
-
+def data_deletion():
+    deleter = sqlite3.connect('grades.db')
+    cursor = deleter.cursor()
+    drop_table = """DROP TABLE grades"""
+    cursor.execute((drop_table))
+    input("data was deleted")
+    table_maker()
 
 gui1()
