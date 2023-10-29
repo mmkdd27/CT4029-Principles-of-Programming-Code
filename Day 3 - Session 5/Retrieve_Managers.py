@@ -6,4 +6,5 @@ c.execute("SELECT * FROM employee WHERE role='Manager'")
 rows = c.fetchall()
 for row in rows:
     print(row)
+conn.commit()
 conn.close()

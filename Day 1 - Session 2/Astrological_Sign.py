@@ -28,8 +28,6 @@ elif month == 2 and day > 18:
     print("Pisces ♓️️")
 elif month == 3 and day <= 19:
     print("Pisces ♓️")
-elif month == 4 and day > 20:
-    print("Pisces ♓️")
 elif month == 3 and day <= 20:
     print("Aries ♈️")
 elif month == 4 and day <= 19:

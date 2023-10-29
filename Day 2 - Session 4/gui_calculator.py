@@ -2,8 +2,8 @@ import tkinter
 
 
 def calculate():
-    value1 = int(entry1.getint())
-    value2 = int(entry2.getint())
+    value1 = int(entry1.get())
+    value2 = int(entry2.get())
     operation = choice.get()
 
     if operation == 1:

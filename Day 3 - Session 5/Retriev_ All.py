@@ -6,4 +6,5 @@ c.execute("SELECT * FROM employee")
 rows = c.fetchall()
 for row in rows:
     print(row)
+conn.commit()
 conn.close()
