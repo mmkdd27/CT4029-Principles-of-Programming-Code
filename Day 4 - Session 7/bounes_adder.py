@@ -1,4 +1,4 @@
-reader = open("employee_dats.txt", "r")
+reader = open("employee_data.txt", "r")
 separator = ","
 employee_data = reader.readlines()
 for i in employee_data:
