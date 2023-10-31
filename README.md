@@ -25,7 +25,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24)
   - Exercise 2: [Net_Salary.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Net_Salary.py)
   - Exercise 3: [Triangle_Calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Triangle_Calculator.py)
 
-- **Session 4 - Graphical User Interface in Python **
+- **Session 4 - Graphical User Interface in Python**
   - Exercise 1: [square_root_GUI.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/square_root_GUI.py)
   - Exercise 2: [multi_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/multi_calculator.py)
   - Exercise 3: [gui_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/gui_calculator.py)
