@@ -1,10 +1,10 @@
 # CT4029-Principles-of-Programming-Code
-CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24)
+CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 
 ## Student Information:
-- **Name:** Mohammad Mehdi Kadkoodazadeh
-- **Student Number:** 4326630
-- **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk
+- **Name:** Mohammad Mehdi Kadkoodazadeh :man_student:
+- **Student Number:** 4326630 :bookmark:
+- **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk :email:
 
 ## Table of Contents:
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python**
@@ -78,7 +78,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24)
   - Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)
 
   
-## Workbooks:
+## Workbooks: :books:
 - Workbook 1: [Session 1 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Session%201%20-%20Workbook.pdf)
 - Workbook 2: [Session 2 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Session%202%20-%20Workbook.pdf)
 - Workbook 3: [Session 3 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Session%203%20-%20Workbook.pdf)
