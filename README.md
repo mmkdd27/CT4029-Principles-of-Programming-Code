@@ -55,7 +55,29 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24)
   - Exercise 4: [bounes_adder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/bounes_adder.py)
   - Exercise 5: [role_to_responsibility.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/role_to_responsibility.py)
 
+- **Session 8**
+  - Exercise 1: [file_application_import.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%204%20-%20Session%208/file_application_import.py)
+  - Exercise 2: [print_select_columns.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%204%20-%20Session%208/print_select_columns.py)
+  - Exercise 3: [sum_mean_max_min_Touches.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/d8ad51d0f902ce0c187ab36993a17b9f1cbc4cd5/Day%204%20-%20Session%208/sum_mean_max_min_Touches.py)
+  - Exercise 4: [import_skip_first_20.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/d8ad51d0f902ce0c187ab36993a17b9f1cbc4cd5/Day%204%20-%20Session%208/import_skip_first_20.py)
+  - Exercise 5: [import_last_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/import_last_10.py)
+  - Exercise 6.1: [rating_more_then_80.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/rating_more_then_80.py)
+  - Exercise 6.2: [rating_more_then_80_and_Total_Successful_Passes.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/rating_more_then_80_and_Total_Successful_Passes.py)
+  - Exercise 7: [specific_player_finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/specific_player_finder.py)
+  - Exercise 8: [2016_finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/2016_finder.py)
+  - Exercise 9: [index_by_Successful_Passes_Own_Half.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/index_by_Successful_Passes_Own_Half.py)
+  - Exercise 10: [histogram.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/histogram.py)
 
+  - **Session 9**
+  - Exercise 1: [four_zeros_array.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/four_zeros_array.py)
+  - Exercise 2: [one_to_five.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/one_to_five.py)
+  - Exercise 3: [nine_zeros.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/nine_zeros.py)
+  - Exercise 4: [ten_to_fourthy_nine.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/ten_to_fourthy_nine.py)
+  - Exercise 5: [matrix_creator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_creator.py)
+  - Exercise 6: [matrix_mean_standerd_deviation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_mean_standerd_deviation.py)
+  - Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)
+
+  
 ## Workbooks:
 - Workbook 1: [Session 1 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Session%201%20-%20Workbook.pdf)
 - Workbook 2: [Session 2 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Session%202%20-%20Workbook.pdf)
