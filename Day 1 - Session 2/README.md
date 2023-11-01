@@ -1,7 +1,0 @@
-- # **Session 2 - Control Structure: Loops, Switches and Conditional Statements in Python** :loop:
-  - ## Exercise 1: [Even_From_100_to_2.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Even_From_100_to_2.py)
-  - ## Exercise 2: [Triangle_Finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Triangle_Finder.py)
-  - ## Exercise 3: [Factor_Finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Factor_Finder.py)
-  - ## Exercise 4: [Astrological_Sign.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Astrological_Sign.py)
-  - ## Exercise 5: [Prime_Printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Prime_Printer.py)
-  - ## Exercise 6: [Dog_Years.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Dog_Years.py)
