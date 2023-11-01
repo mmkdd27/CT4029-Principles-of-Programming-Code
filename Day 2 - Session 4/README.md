@@ -1,5 +1,0 @@
-- # **Session 4 - Graphical User Interface in Python** :desktop_computer:
-  - ## Exercise 1: [square_root_GUI.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/square_root_GUI.py)
-  - ## Exercise 2: [multi_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/multi_calculator.py)
-  - ## Exercise 3: [gui_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/gui_calculator.py)
-  - ## Exercise 4: [miles_to_kilometers _slider.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%204/miles_to_kilometers%20_slider.py)
