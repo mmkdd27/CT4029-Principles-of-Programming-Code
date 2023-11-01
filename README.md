@@ -100,3 +100,12 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - Session 7: [Files in Python.pptx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/5dcbf70979cc6d17f175ec8b60fc3d6048847b91/Lectures/Day%204%20-%20Session%207%20-Files%20in%20Python.pptx)
 - Session 8: [Pandas for data analysis.pptx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/5dcbf70979cc6d17f175ec8b60fc3d6048847b91/Lectures/Day%204%20-%20Session%208%20-%20Pandas%20for%20data%20analysis.pptx)
 - Session 9: [numpy and matplotlib.pptx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/5dcbf70979cc6d17f175ec8b60fc3d6048847b91/Lectures/Day%205%20-%20Session%209%20-%20numpy%20and%20matplotlib.pptx)
+
+### Install External libraries :
+copy and paste the code below into windows command line 
+```
+py -m pip install --upgrade pip
+py -m pip install qrcode
+py -m pip install pandas
+py -m pip install matplotlib
+```
