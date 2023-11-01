@@ -1,0 +1,6 @@
+- # **Session 7 - Working with Files in Python** :file_folder:
+  - ## Exercise 1: [line_to_list.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/line_to_list.py)
+  - ## Exercise 2: [file_word_frequency.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/file_word_frequency.py)
+  - ## Exercise 3: [user_info_to_file.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/user_info_to_file.py)
+  - ## Exercise 4: [bounes_adder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/bounes_adder.py)
+  - ## Exercise 5: [role_to_responsibility.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/role_to_responsibility.py)
