@@ -1,0 +1,8 @@
+  - # **Session 9 - Arrays and Data Visualisation in Python** :1234:
+  - ## Exercise 1: [four_zeros_array.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/four_zeros_array.py)
+  - ## Exercise 2: [one_to_five.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/one_to_five.py)
+  - ## Exercise 3: [nine_zeros.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/nine_zeros.py)
+  - ## Exercise 4: [ten_to_fourthy_nine.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/ten_to_fourthy_nine.py)
+  - ## Exercise 5: [matrix_creator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_creator.py)
+  - ## Exercise 6: [matrix_mean_standerd_deviation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_mean_standerd_deviation.py)
+  - ## Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)

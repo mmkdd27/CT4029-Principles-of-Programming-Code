@@ -1,0 +1,12 @@
+- # **Session 8 - Pandas for Data analysis in Python** :bar_chart:
+  - ## Exercise 1: [file_application_import.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%204%20-%20Session%208/file_application_import.py)
+  - ## Exercise 2: [print_select_columns.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%204%20-%20Session%208/print_select_columns.py)
+  - ## Exercise 3: [sum_mean_max_min_Touches.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/d8ad51d0f902ce0c187ab36993a17b9f1cbc4cd5/Day%204%20-%20Session%208/sum_mean_max_min_Touches.py)
+  - ## Exercise 4: [import_skip_first_20.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/d8ad51d0f902ce0c187ab36993a17b9f1cbc4cd5/Day%204%20-%20Session%208/import_skip_first_20.py)
+  - ## Exercise 5: [import_last_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/import_last_10.py)
+  - ## Exercise 6.1: [rating_more_then_80.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/rating_more_then_80.py)
+  - ## Exercise 6.2: [rating_more_then_80_and_Total_Successful_Passes.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/rating_more_then_80_and_Total_Successful_Passes.py)
+  - ## Exercise 7: [specific_player_finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/specific_player_finder.py)
+  - ## Exercise 8: [2016_finder.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/2016_finder.py)
+  - ## Exercise 9: [index_by_Successful_Passes_Own_Half.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/index_by_Successful_Passes_Own_Half.py)
+  - ## Exercise 10: [histogram.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/dd3305a8aafd91bd68fa47afcf7322988e64333d/Day%204%20-%20Session%208/histogram.py)
