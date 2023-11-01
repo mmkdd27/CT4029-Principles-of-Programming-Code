@@ -1,11 +1,11 @@
 # CT4029-Principles-of-Programming-Code
 CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
-
+- **Module Tutor:** Zainab Loukil :woman_teacher:
 ## Student Information:
 - **Name:** Mohammad Mehdi Kadkoodazadeh :man_student:
 - **Student Number:** 4326630 :mortar_board:
 - **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk :email:
-- **Module Tutor:** Zainab Loukil :woman_teacher:
+
 
 ## Table of Contents:
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python** :computer:
