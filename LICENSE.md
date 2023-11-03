@@ -1,4 +1,4 @@
-MIT License with University of Gloucestershire Student Charter Compliance Clause
+MIT License with University of Gloucestershire Student Charter, Assessment Offenses guidelines, and Academic Regulations for Taught Provision 2023/24 Compliance Clauses
 
 Copyright (c) 2023 Mohammad Mehdi Kadkoodazadeh
 
@@ -12,8 +12,13 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-**Compliance with the University of Gloucestershire Student Charter:**
-Users and contributors of this software are required to comply with the University of Gloucestershire Student Charter, which can be found at [University of Gloucestershire Student Charter](https://www.glos.ac.uk/information/knowledge-base/student-charter/). Any use, modification, or distribution of this software that violates the terms of the University of Gloucestershire Student Charter is prohibited.
+**Compliance with University of Gloucestershire Documents:**
+Users and contributors of this software are required to comply with the following documents:
+1. University of Gloucestershire Student Charter, available at [University of Gloucestershire Student Charter](https://www.glos.ac.uk/information/knowledge-base/student-charter/)
+2. Assessment Offenses guidelines
+3. Academic Regulations for Taught Provision 2023/24, available at [Academic Regulations for Taught Provision 2023/24](https://www.glos.ac.uk/information/knowledge-base/academic-regulations-for-taught-provision-2023-24/)
+
+Any use, modification, or distribution of this software that violates the terms of the University of Gloucestershire Student Charter, Assessment Offenses guidelines, or Academic Regulations for Taught Provision 2023/24 is prohibited.
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
