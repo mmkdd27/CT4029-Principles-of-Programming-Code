@@ -11,7 +11,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python** :computer:
   - Exercise 1: [Km_to_Miles_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Km_to_Miles_Converter.py)
   - Exercise 2: [Celsius_to_Fahrenheit_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Celsius_to_Fahrenheit_Converter.py)
-  - Exercise 3: [Day 1 - Session 1/Retirement_Age.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Retirement_Age.py)
+  - Exercise 3: [Retirement_Age.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Retirement_Age.py)
 
 - **Session 2 - Control Structure: Loops, Switches and Conditional Statements in Python** :loop:
   - Exercise 1: [Even_From_100_to_2.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Even_From_100_to_2.py)
@@ -22,7 +22,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Exercise 6: [Dog_Years.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Dog_Years.py)
 
 - **Session 3 - Code Reusability and Functions in Python** :recycle:
-  - Exercise 1: [/Triangle_Maker.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Triangle_Maker.py)
+  - Exercise 1: [Triangle_Maker.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Triangle_Maker.py)
   - Exercise 2: [Net_Salary.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Net_Salary.py)
   - Exercise 3: [Triangle_Calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Triangle_Calculator.py)
 

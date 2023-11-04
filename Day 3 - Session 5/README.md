@@ -1,0 +1,8 @@
+- # **Session 5 - SQLite Database in Python** :floppy_disk:
+  - ## Exercise 1: [Employee_Database_Creation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Employee_Database_Creation.py)
+  - ## Exercise 2: [Retriev_ All.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Retriev_%20All.py)
+  - ## Exercise 3: [Retrieve_Managers.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Retrieve_Managers.py)
+  - ## Exercise 4: [Manager_to_Technition.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Manager_to_Technition.py)
+  - ## Exercise 5: [Delete_Technicians.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Delete_Technicians.py)
+  - ## Exercise 6: [IT_Extention.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/IT_Extention.py)
+  - ## Exercise 7: [Employee_GUI.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%203%20-%20Session%205/Employee_GUI.py)
