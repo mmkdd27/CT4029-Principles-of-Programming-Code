@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="i literally have no idea what I'm doing with matplot">
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="annotated the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/Celsius_to_Fahrenheit_Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 - Session 1/Celsius_to_Fahrenheit_Converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1 - Session 2/Astrological_Sign.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 - Session 2/Astrological_Sign.py" afterDir="false" />
