@@ -1,6 +1,6 @@
 # CT4029-Principles-of-Programming-Code
 CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
-- **Module Tutor:** Zainab Loukil :woman_teacher:
+- **Module Tutor:**  Nasreen Anjum (Dr) :woman_teacher:
 ## Student Information:
 - **Name:** Mohammad Mehdi Kadkoodazadeh :man_student:
 - **Student Number:** 4326630 :mortar_board:
