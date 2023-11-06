@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="fixed and added code" />
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="changed from 65 to 66" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699276147344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed from 65 to 66">
+      <created>1699276721207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699276721207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -85,6 +92,7 @@
     <MESSAGE value="session 9 and 8" />
     <MESSAGE value="i literally have no idea what I'm doing with matplot" />
     <MESSAGE value="fixed and added code" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed and added code" />
+    <MESSAGE value="changed from 65 to 66" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed from 65 to 66" />
   </component>
 </project>
