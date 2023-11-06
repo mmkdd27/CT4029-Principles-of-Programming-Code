@@ -8,7 +8,7 @@ Collaborate with cross-functional teams to deliver software projects # Software 
 Ensure data security and implement cybersecurity measures # Cybersecurity Expert
 Utilize advanced statistical and computational techniques for data analysis # Data Scientist
 Design and maintain network infrastructure # Network Engineer
-Develop and optimize algorithms for various applications # Software Developer
+Develop and optimize algorithms for various applications #Software Developer
 Implement artificial intelligence solutions # AI Specialist
 Manage and optimize databases # Database Administrator
 Create visually appealing and user-friendly interfaces # UI Designer
