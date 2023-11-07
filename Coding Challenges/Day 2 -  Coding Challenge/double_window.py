@@ -1,7 +1,7 @@
 import tkinter as tk
 
 root = tk.Tk()
-root.title("Customized Labels")
+root.title("Custom Labels")
 
 label1 = tk.Label(root, text="Label 1", bg="black", fg="white")
 label1.pack()
