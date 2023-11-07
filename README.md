@@ -18,7 +18,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
     - Description: Calculates the area of a circle with the radius from the user.
   - Challenge File: [find_the_are_of_rectangle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/find_the_are%20_of_rectangle.py)
     - Description: Calculates the area of a rectangle.
-  - Challenge File: [five_average.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/five_average.py)
+  - Challenge File: [five_average.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/five_averege.py)
     - Description: Takes 5 numbers as input and outputs the average.
   - Challenge File: [grade_converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/grade_converter.py)
     - Description: Takes a grade as input and outputs the grade as A, B, C, D, or F.
