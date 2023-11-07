@@ -1,4 +1,2 @@
-num = 0
-for i in range (0,11):
-    num = i+num
-print (num)
+for i in range (4,33, 4):
+    print(i)
