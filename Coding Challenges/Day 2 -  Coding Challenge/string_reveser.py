@@ -47,4 +47,4 @@ def find_max_and_min(num1, num2, num3):
 
 
 print(maximizer(4,13,9))
-print(find_max_and_min(2,77,1)
+print(find_max_and_min(2,77,1))

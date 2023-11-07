@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added extra files">
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/1_to_100_intervel_of_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/80_to_60_interval_of_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/custom_sequnce_printer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/factorial_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/factorial_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/sum_of_powers_of_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/string_reveser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/string_reveser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699359159440</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added extra files">
+      <created>1699359491279</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699359491279</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added extra files">
+      <created>1699359608919</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699359608919</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
