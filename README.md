@@ -142,3 +142,6 @@ py -m pip install qrcode
 py -m pip install pandas
 py -m pip install matplotlib
 ```
+## Module overview 
+### [Read full file here ](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/1296af2b15c505bb1e39004e32d5d47a8df45b88/Lectures/extra%20files/CT4029_Module%20Guide_23_24%20(2).docx)
+![Module overview ](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/1296af2b15c505bb1e39004e32d5d47a8df45b88/Lectures/extra%20files/Screenshot%202022-08-26%20at%2014.43.26%20(1).png)
