@@ -7,37 +7,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk :email:
 
 - 
-## Table of Contents: Coding Challenges
 
-- **Day 1 Coding Challenges**
-  - Challenge File: [Create a Message Printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/Create%20a%20Message%20Printer.py)
-    - Description: Prints information on the user and date and time.
-  - Challenge File: [add_1_to_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/add_1_to_10.py)
-    - Description: Adds 1 to 10 together.
-  - Challenge File: [area_of_circle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/area_of_circle.py)
-    - Description: Calculates the area of a circle with the radius from the user.
-  - Challenge File: [find_the_are_of_rectangle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/find_the_are%20_of_rectangle.py)
-    - Description: Calculates the area of a rectangle.
-  - Challenge File: [five_average.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/five_averege.py)
-    - Description: Takes 5 numbers as input and outputs the average.
-  - Challenge File: [grade_converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/grade_converter.py)
-    - Description: Takes a grade as input and outputs the grade as A, B, C, D, or F.
-  - Challenge File: [loop_add_4.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/loop_add_4.py)
-    - Description: Prints this sequence of numbers: 4, 8, 12, 16, 20, 24, 28, 32.
-  - Challenge File: [multi_shape_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/multi_shape_calculator.py)
-    - Description: Gives the user a choice between rectangles, squares, circles, and triangles and calculates their area.
-  - Challenge File: [pass_or_fail.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/pass_or_fail.py)
-    - Description: Takes a grade and prints "pass" if the score is 40 or more.
-  - Challenge File: [positive_negative_checker.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/positive_negative_checker.py)
-    - Description: Gets a number as input and prints out whether it's positive or negative.
-  - Challenge File: [promotion_viewer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/promotion_viewer.py)
-    - Description: Gives the user a choice to view a promotion from the list.
-  - Challenge File: [reverse_500.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/reverse_500.py)
-    - Description: Counts from 500 to 0 in reverse.
-  - Challenge File: [square_root.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/square_root.py)
-    - Description: Calculates square root without the math library.
-
- 
   
 ## Table of Contents: Practical exercises
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python** :computer:
@@ -109,6 +79,38 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Exercise 5: [matrix_creator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_creator.py)
   - Exercise 6: [matrix_mean_standerd_deviation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_mean_standerd_deviation.py)
   - Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)
+
+## Table of Contents: Coding Challenges
+
+- **Day 1 Coding Challenges**
+  - Challenge File: [Create a Message Printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/Create%20a%20Message%20Printer.py)
+    - Description: Prints information on the user and date and time.
+  - Challenge File: [add_1_to_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/add_1_to_10.py)
+    - Description: Adds 1 to 10 together.
+  - Challenge File: [area_of_circle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/area_of_circle.py)
+    - Description: Calculates the area of a circle with the radius from the user.
+  - Challenge File: [find_the_are_of_rectangle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/find_the_are%20_of_rectangle.py)
+    - Description: Calculates the area of a rectangle.
+  - Challenge File: [five_average.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/five_averege.py)
+    - Description: Takes 5 numbers as input and outputs the average.
+  - Challenge File: [grade_converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/grade_converter.py)
+    - Description: Takes a grade as input and outputs the grade as A, B, C, D, or F.
+  - Challenge File: [loop_add_4.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/loop_add_4.py)
+    - Description: Prints this sequence of numbers: 4, 8, 12, 16, 20, 24, 28, 32.
+  - Challenge File: [multi_shape_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/multi_shape_calculator.py)
+    - Description: Gives the user a choice between rectangles, squares, circles, and triangles and calculates their area.
+  - Challenge File: [pass_or_fail.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/pass_or_fail.py)
+    - Description: Takes a grade and prints "pass" if the score is 40 or more.
+  - Challenge File: [positive_negative_checker.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/positive_negative_checker.py)
+    - Description: Gets a number as input and prints out whether it's positive or negative.
+  - Challenge File: [promotion_viewer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/promotion_viewer.py)
+    - Description: Gives the user a choice to view a promotion from the list.
+  - Challenge File: [reverse_500.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/reverse_500.py)
+    - Description: Counts from 500 to 0 in reverse.
+  - Challenge File: [square_root.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/square_root.py)
+    - Description: Calculates square root without the math library.
+
+ 
 
   ## Workbooks: Practical exercises :books:
 - Workbook 1: [Session 1 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Session%201%20-%20Workbook.pdf)
