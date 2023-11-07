@@ -1,29 +1,28 @@
 # Table of Contents: Coding Challenges :pencil2:
 
 - # **Day 1 Coding Challenges**
-  - ## Challenge File: [1_to_100_intervel_of_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/Create%20a%20Message%20Printer.py)
-    - **Description:** Prints information on the user and date and time.
-  - ## Challenge File: [add_1_to_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/add_1_to_10.py)
-    - **Description:** Adds 1 to 10 together.
-  - ## Challenge File: [area_of_circle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/area_of_circle.py)
-    - **Description:** Calculates the area of a circle with the radius from the user.
-  - ## Challenge File: [find_the_are_of_rectangle.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/find_the_are%20_of_rectangle.py)
-    - **Description:** Calculates the area of a rectangle.
-  - ## Challenge File: [five_average.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/five_averege.py)
-    - **Description:** Takes 5 numbers as input and outputs the average.
-  - ## Challenge File: [grade_converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/grade_converter.py)
-    - **Description:** Takes a grade as input and outputs the grade as A, B, C, D, or F.
-  - ## Challenge File: [loop_add_4.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/loop_add_4.py)
-    - **Description:** Prints this sequence of numbers: 4, 8, 12, 16, 20, 24, 28, 32.
-  - ## Challenge File: [multi_shape_calculator.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/multi_shape_calculator.py)
-    - **Description:** Gives the user a choice between rectangles, squares, circles, and triangles and calculates their area.
-  - ## Challenge File: [pass_or_fail.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/pass_or_fail.py)
-    - **Description:** Takes a grade and prints "pass" if the score is 40 or more.
-  - ## Challenge File: [positive_negative_checker.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/positive_negative_checker.py)
-    - **Description:** Gets a number as input and prints out whether it's positive or negative.
-  - ## Challenge File: [promotion_viewer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/promotion_viewer.py)
-    - **Description:** Gives the user a choice to view a promotion from the list.
-  - ## Challenge File: [reverse_500.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/reverse_500.py)
-    - **Description:** Counts from 500 to 0 in reverse.
-  - ## Challenge File: [square_root.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/square_root.py)
-    - **Description:** Calculates square root without the math library.
+  - ## Challenge File: [1_to_100_intervals_of_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/1_to_100_intervel_of_10.py)
+    - **Description:** prints from 1 to 100  in intervals of 10
+  - ## Challenge File: [80_to_60_interval_of_5.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/80_to_60_interval_of_5.py)
+    - **Description:** prints from 80 to 60  in intervals of 5
+  - ## Challenge File: [custom_sequnce_printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/custom_sequnce_printer.py)
+    - **Description:** prints 2,4,6,10,14,16
+  - ## Challenge File: [factorial_calc.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/factorial_calc.py)
+    - **Description:** calculates factorial 
+  - ## Challenge File: [factorial_function.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/factorial_function.py)
+    - **Description:** function that calculates factorial 
+  - ## Challenge File: [string_reveser.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/string_reveser.py)
+    - **Description:** three functions one reverses a given string, another finds the maximum of three given numbers and the third finds the maximum and the minimum 
+  - ## Challenge File: [sum_of_powers_of_2.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/sum_of_powers_of_2.py)
+    - **Description:** calculates the sum of powers of 2 upto 2^6
+  - ## Challenge File: []()
+    - **Description:** 
+  - ## Challenge File: []()
+    - **Description:** 
+  - ## Challenge File: []()
+    - **Description:** 
+  - ## Challenge File: []()
+    - **Description:** 
+  - ## Challenge File: []()
+    - **Description:** 
+  - ## Challenge File: []()
