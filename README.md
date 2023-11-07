@@ -39,7 +39,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 
  
   
-## Table of Contents:
+## Table of Contents: Practical exercises
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python** :computer:
   - Exercise 1: [Km_to_Miles_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Km_to_Miles_Converter.py)
   - Exercise 2: [Celsius_to_Fahrenheit_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Celsius_to_Fahrenheit_Converter.py)
@@ -110,8 +110,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Exercise 6: [matrix_mean_standerd_deviation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_mean_standerd_deviation.py)
   - Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)
 
-  
-## Workbooks: :books:
+  ## Workbooks: Practical exercises :books:
 - Workbook 1: [Session 1 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Session%201%20-%20Workbook.pdf)
 - Workbook 2: [Session 2 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%202/Session%202%20-%20Workbook.pdf)
 - Workbook 3: [Session 3 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%202%20-%20Session%203/Session%203%20-%20Workbook.pdf)
@@ -121,6 +120,12 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - Workbook 7: [Session 7 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%207/Day%204%20-%20Session%207.pdf)
 - Workbook 8: [Session 8 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%204%20-%20Session%208/Session%208%20-%20Workbook.pdf)
 - Workbook 9: [Session 9 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%205%20-%20Session%209/Session%209%20-%20Workbook.pdf)
+
+  ## Workbooks: Computational Maths workbooks :books:
+  > Extra workbooks provided for further practice 
+- Workbook 1: [Week 1 - Workbook.docx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/ae80d1ac5de8c84168ac011ade01bcfd73cd6a13/Computational%20Maths%20Workbooks%20and%20Answers/Week%201/Week%201%20-%20Workbook.docx)
+- Workbook 2: [Week 2 - Workbook.docx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/ae80d1ac5de8c84168ac011ade01bcfd73cd6a13/Computational%20Maths%20Workbooks%20and%20Answers/Week%202/Week%202%20-%20Workbook.docx)
+- Workbook 3: [Week 3 - Workbook.docx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/ae80d1ac5de8c84168ac011ade01bcfd73cd6a13/Computational%20Maths%20Workbooks%20and%20Answers/Week%203/Week%203%20-%20Workbook.docx)
 
     
 ## lectures: :book:
