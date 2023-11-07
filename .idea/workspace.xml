@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added extra files" />
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added extra files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/Create a Message Printer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/add_1_to_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/area_of_circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/find_the_are _of_rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/five_averege.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/grade_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/loop_add_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/multi_shape_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/pass_or_fail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/positive_negative_checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/promotion_viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/reverse_500.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Session 1/coding challenge/square_root.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699346201757</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added extra files">
+      <created>1699346945785</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699346945785</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
