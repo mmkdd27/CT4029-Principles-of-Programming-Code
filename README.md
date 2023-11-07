@@ -6,10 +6,9 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - **Student Number:** 4326630 :mortar_board:
 - **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk :email:
 
-- 
 
   
-## Table of Contents: Practical exercises
+## Table of Contents: Practical exercises :pencil2:
 - **Session 1 - Introduction to Computer Architecture and Programming basics in Python** :computer:
   - Exercise 1: [Km_to_Miles_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Km_to_Miles_Converter.py)
   - Exercise 2: [Celsius_to_Fahrenheit_Converter.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Celsius_to_Fahrenheit_Converter.py)
@@ -80,7 +79,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Exercise 6: [matrix_mean_standerd_deviation.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/matrix_mean_standerd_deviation.py)
   - Exercise 7: [appointment_time_shopping-methods_graph.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/88f7d97e80fcb870edf85d22fc3ae44c46e18b23/Day%205%20-%20Session%209/appointment_time_shopping-methods_graph.py)
 
-## Table of Contents: Coding Challenges
+## Table of Contents: Coding Challenges :pencil2:
 
 - **Day 1 Coding Challenges**
   - Challenge File: [Create a Message Printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/84d12c6241df5874c705fd3d07312a5048a46f58/Day%201%20-%20Session%201/coding%20challenge/Create%20a%20Message%20Printer.py)
