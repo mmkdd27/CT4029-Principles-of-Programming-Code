@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added extra files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/string_reveser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges/Day 2 -  Coding Challenge/string_reveser.py" afterDir="false" />
-    </list>
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added extra files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699359608919</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added extra files">
+      <created>1699363073190</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699363073190</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added extra files">
+      <created>1699363162002</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699363162002</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
