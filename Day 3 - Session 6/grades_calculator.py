@@ -1,5 +1,6 @@
 import sqlite3
 
+
 def table_maker():
     conn = sqlite3.connect('grades.db')
     cursor = conn.cursor()
@@ -14,7 +15,10 @@ def table_maker():
     cursor.execute(create_table)
     conn.commit()
     conn.close()
+
+
 table_maker()
+
 
 def module_selector():
     module = str(input("""please choose a module:
@@ -147,12 +151,15 @@ def data_entry():
     CATS = CATS_selector()
     grade = grades_input(CATS)
     insert_data(CATS, module_code, module_name, grade)
+
+
 def data_deletion():
     deleter = sqlite3.connect('grades.db')
     cursor = deleter.cursor()
     drop_table = """DROP TABLE grades"""
-    cursor.execute((drop_table))
+    cursor.execute(drop_table)
     input("data was deleted")
     table_maker()
+
 
 gui1()
