@@ -7,7 +7,7 @@ def button_click2():
     label1.config(text="Button Clicked!")
     label2.config(text="yay you won!")
 root = tk.Tk()
-root.title("Simple GUI Application")
+root.title("choose wisely!")
 
 frame1 = tk.Frame(root, bd=5, relief=tk.GROOVE, bg="lightblue")
 frame1.pack(side=tk.TOP, padx=10, pady=10, fill=tk.X)
