@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="code cleanup and reformatting - cleaned up the table">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699429814991</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added files">
+      <created>1699430126110</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699430126110</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,12 +294,12 @@
     <MESSAGE value="added file" />
     <MESSAGE value="added coding challenges" />
     <MESSAGE value="added extra files" />
-    <MESSAGE value="added files" />
     <MESSAGE value="code cleanup and reformatting - fixed typo" />
     <MESSAGE value="code cleanup and reformatting" />
     <MESSAGE value="code cleanup and reformatting - changed variable name" />
     <MESSAGE value="code cleanup and reformatting - changed file name" />
     <MESSAGE value="code cleanup and reformatting - cleaned up the table" />
-    <option name="LAST_COMMIT_MESSAGE" value="code cleanup and reformatting - cleaned up the table" />
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
   </component>
 </project>
