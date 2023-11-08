@@ -1,7 +1,7 @@
-sum = 0
+sum_of_values = 0
 count = 1
 while count < 7:
-    sum = sum + (2 ** count)
+    sum_of_values = sum_of_values + (2 ** count)
     count = count + 1
 
-print(sum)
+print(sum_of_values)
