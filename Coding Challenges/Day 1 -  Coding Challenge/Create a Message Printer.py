@@ -32,6 +32,7 @@ for i in range(total_iterations):
     time.sleep(0.1)  # Simulate some work
     progress_bar(i + 1, total_iterations)
 
+
 def progress_bar_print(iteration, total, bar_length=50):
     progress = (iteration / total)
     # this is for knowing which part of the current bar are we in
@@ -41,7 +42,9 @@ def progress_bar_print(iteration, total, bar_length=50):
     # whats left
 
     print(f'\r[{arrow + spaces}] {int(progress * 100)}%')
- #here is a version with print
+
+
+# here is a version with print
 total_iterations = 55
 for i in range(total_iterations):
     time.sleep(0.1)  # Simulate some work

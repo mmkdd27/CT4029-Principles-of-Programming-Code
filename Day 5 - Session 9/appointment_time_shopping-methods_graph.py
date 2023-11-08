@@ -15,8 +15,6 @@ plt.xlabel("Appointment Time")
 plt.ylabel("Count")
 plt.title("Histogram of Appointment Times")
 
-
-
 plt.subplot(1, 2, 2)
 plt.hist(shopping_methods, bins=10, edgecolor="black")
 plt.xlabel("shopping_methods")
@@ -25,4 +23,3 @@ plt.title("Histogram of shopping_methods")
 
 plt.tight_layout()
 plt.show()
-
