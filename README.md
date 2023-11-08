@@ -175,19 +175,17 @@ py -m pip install matplotlib
 ```
 ## Module overview 
 ### [Read full file here ](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/1296af2b15c505bb1e39004e32d5d47a8df45b88/Lectures/extra%20files/CT4029_Module%20Guide_23_24%20(2).docx)
-| Session | Session Topic                                                                         | Practical Work                                                                     |
-|---------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| 1       | Module Overview, Computer Architecture, Introduction to Programming principles        | Problem Solving Strategies, Flowchart, Pseudocode                                  |
-| 2       | Basics of Python, Variables and Data Types, Programming Concepts – Control Structures | Multiple Problem Solving, Loops, Switches, Conditions                              |
-| 3       | Programming Concepts – Passing Values                                                 | Functions and Parameters                                                           |
-| 4       | Design a User Interface Using Python                                                  | Graphical User Interface design, Interactive Software implementation using Tkinter |
-| 5       | Databases in Python                                                                   | SQLite Database, Link GUI to SQLite database                                       |
-| 6       | Data Structures                                                                       | Lists and Tuples                                                                   |
-| 7       | File & I/O                                                                            | Reading/Writing to files                                                           |
-| 8       | Data Analysis                                                                         | Python Libraries for Data Science                                                  |
-| 9       | Arrays and Data visualization                                                         | NumPy Arrays, Graphs & Charts using Matplotlib                                     |
-| 10      | QR code and Password check in Python                                                  | QR code generation and scanning, Password strength check strategies                |
-| 11      | Recap, Q&A, Extra Practical                                                           |                                                                                    |
-| 12      | Assignment Workshop                                                                   |                                                                                    |
-
-
+| Session | Session Topic                                                                         | Practical Work                                                                     | Day of Thought |
+|---------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|
+| 1       | Module Overview, Computer Architecture, Introduction to Programming principles        | Problem Solving Strategies, Flowchart, Pseudocode                                  | Day 1           |
+| 2       | Basics of Python, Variables and Data Types, Programming Concepts – Control Structures | Multiple Problem Solving, Loops, Switches, Conditions                              | Day 1           |
+| 3       | Programming Concepts – Passing Values                                                 | Functions and Parameters                                                           | Day 2           |
+| 4       | Design a User Interface Using Python                                                  | Graphical User Interface design, Interactive Software implementation using Tkinter | Day 2           |
+| 5       | Databases in Python                                                                   | SQLite Database, Link GUI to SQLite database                                       | Day -           |
+| 6       | Data Structures                                                                       | Lists and Tuples                                                                   | Day -           |
+| 7       | File & I/O                                                                            | Reading/Writing to files                                                           | Day 3           |
+| 8       | Data Analysis                                                                         | Python Libraries for Data Science                                                  | Day -           |
+| 9       | Arrays and Data visualization                                                         | NumPy Arrays, Graphs & Charts using Matplotlib                                     | Day -           |
+| 10      | QR code and Password check in Python                                                  | QR code generation and scanning, Password strength check strategies                | Day -          |
+| 11      | Recap, Q&A, Extra Practical                                                           |                                                                                    | Day -          |
+| 12      | Assignment Workshop                                                                   |                                                                                    | Day -          |
