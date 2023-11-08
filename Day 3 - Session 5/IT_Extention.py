@@ -1,7 +1,7 @@
-#is this even te intended answer ?
+# is this even te intended answer ?
 import sqlite3
 
-conn = sqlite3.connect('employee1_extention.db')
+conn = sqlite3.connect('employee1_extension.db')
 c = conn.cursor()
 
 c.execute("""CREATE TABLE IF NOT EXISTS department (
