@@ -1,15 +1,16 @@
 def reverser(s):
-    str = ""#I create a new empty string
-    for i in s: #i add every letter of the original string to the new one but from the left
-        str = i + str
-    return str
+    string = ""  # I create a new empty string
+    for i in s:  # I add every letter of the original string to the new one but from the left
+        string = i + string
+    return string
 
 
-sring = input("enter your string: ")
-print(reverser(sring))
+string1 = input("enter your string: ")
+print(reverser(string1))
+
+num1, num2, num3 = (input("enter your values separated by a ','").split(","))
 
 
-num1, num2, num3 = (input("enter your values sepertaed by a ','").split(","))
 def maximizer(num1, num2, num3):
     if num1 >= num2 and num1 >= num3:
         if num1 == num2 == num3:
@@ -30,7 +31,7 @@ def maximizer(num1, num2, num3):
 
 
 def find_max_and_min(num1, num2, num3):
-    maximum = num1#I assume num1 one to be minimum and maximum then I challenge it with comparing with other values
+    maximum = num1  # I assume num1 one to be minimum and maximum then I challenge it with comparing with other values
     minimum = num1
 
     if num2 > maximum:
@@ -46,5 +47,5 @@ def find_max_and_min(num1, num2, num3):
     return maximum, minimum
 
 
-print(maximizer(4,13,9))
-print(find_max_and_min(2,77,1))
+print(maximizer(4, 13, 9))
+print(find_max_and_min(2, 77, 1))
