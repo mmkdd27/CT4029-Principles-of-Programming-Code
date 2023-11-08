@@ -175,7 +175,7 @@ py -m pip install matplotlib
 ```
 ## Module overview 
 ### [Read full file here ](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/1296af2b15c505bb1e39004e32d5d47a8df45b88/Lectures/extra%20files/CT4029_Module%20Guide_23_24%20(2).docx)
-| Session | Session Topic                                                                         | Practical Work                                                                     | Day of Thought |
+| Session | Session Topic                                                                         | Practical Work                                                                     | Day  taught    |
 |---------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|
 | 1       | Module Overview, Computer Architecture, Introduction to Programming principles        | Problem Solving Strategies, Flowchart, Pseudocode                                  | Day 1           |
 | 2       | Basics of Python, Variables and Data Types, Programming Concepts – Control Structures | Multiple Problem Solving, Loops, Switches, Conditions                              | Day 1           |
