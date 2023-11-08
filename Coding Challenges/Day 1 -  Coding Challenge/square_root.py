@@ -1,2 +1,2 @@
 num = int(input("please enter your number: "))
-print(num**0.5)
+print(num ** 0.5)

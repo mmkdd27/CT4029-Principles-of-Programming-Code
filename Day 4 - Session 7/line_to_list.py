@@ -5,4 +5,4 @@ list_of_lists2 = [line.strip().split("\n") for line in list1]
 print(list1)
 print(list_of_lists1)
 print(list_of_lists2)
-# i don't know which one is the final goal
+# I don't know which one is the final goal
