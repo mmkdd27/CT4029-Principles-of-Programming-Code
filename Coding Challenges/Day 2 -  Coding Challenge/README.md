@@ -1,6 +1,6 @@
 # Table of Contents: Coding Challenges :pencil2:
 
-- # **Day 1 Coding Challenges**
+- # **Day 2 Coding Challenges**
   - ## Challenge File: [1_to_100_intervals_of_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/1_to_100_intervel_of_10.py)
     - **Description:** prints from 1 to 100  in intervals of 10
   - ## Challenge File: [400_by_400_window.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/cd9510cc9a52bd0d5e3c9cae1f0ca2b1473f81ed/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/400_by_400_window.py)
