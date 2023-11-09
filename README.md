@@ -81,7 +81,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 
 ## Table of Contents: Coding Challenges :pencil2:
 
-- **Day 1 Coding Challenges**
+- ## **Day 1 Coding Challenges**
   - Challenge File: [Create a Message Printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/Create%20a%20Message%20Printer.py)
     - Description: Prints information on the user and date and time.
   - Challenge File: [add_1_to_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/add_1_to_10.py)
@@ -109,7 +109,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Challenge File: [square_root.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/06d658a535532fe4e98405feac4cd70016530c09/Coding%20Challenges/Day%201%20-%20%20Coding%20Challenge/square_root.py)
     - Description: Calculates square root without the math library.
 
-- # **Day 2 Coding Challenges**
+- ## **Day 2 Coding Challenges**
   - Challenge File: [1_to_100_intervals_of_10.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/1_to_100_intervel_of_10.py)
     - Description: prints from 1 to 100  in intervals of 10
   - Challenge File: [400_by_400_window.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/cd9510cc9a52bd0d5e3c9cae1f0ca2b1473f81ed/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/400_by_400_window.py)
@@ -182,7 +182,7 @@ py -m pip install matplotlib
 | 3       | Programming Concepts – Passing Values                                                 | Functions and Parameters                                                           | Day 2           |
 | 4       | Design a User Interface Using Python                                                  | Graphical User Interface design, Interactive Software implementation using Tkinter | Day 2           |
 | 5       | Databases in Python                                                                   | SQLite Database, Link GUI to SQLite database                                       | Day -           |
-| 6       | Data Structures                                                                       | Lists and Tuples                                                                   | Day -           |
+| 6       | Data Structures                                                                       | Lists and Tuples                                                                   | Day 3         |
 | 7       | File & I/O                                                                            | Reading/Writing to files                                                           | Day 3           |
 | 8       | Data Analysis                                                                         | Python Libraries for Data Science                                                  | Day -           |
 | 9       | Arrays and Data visualization                                                         | NumPy Arrays, Graphs & Charts using Matplotlib                                     | Day -           |
