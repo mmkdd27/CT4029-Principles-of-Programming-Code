@@ -1,4 +1,4 @@
-import numpy as n
+import numpy as np
 matrix = [
     [1, 2, 3],
     [4, 8, 5],
