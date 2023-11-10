@@ -24,7 +24,6 @@ print(result_subtract)
 with np.errstate(divide='raise', invalid='raise'):
     try:
         result_divide = np.divide(Arr1, Arr2)
-        print("\nDivision Result:")
         print(result_divide)
     except FloatingPointError:
         print("Division by zero.")
