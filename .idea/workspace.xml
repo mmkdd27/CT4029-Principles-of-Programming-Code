@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def7d25b-8ff5-4926-96e8-e2dc5a4f1d85" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/Coding Challenges/Day 3 - Coding Challenge/middle_change_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CT4029-Principles-of-Programming-Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mmkdd27/Documents/GitHub/CT4029-Principles-of-Programming-Code/Coding Challenges/Day 3 - Coding Challenge",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mmkdd27/Documents/GitHub/New folder/CT4029-Principles-of-Programming-Code/Coding Challenges/Day 3 - Coding Challenge",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmkdd27\Documents\GitHub\New folder\CT4029-Principles-of-Programming-Code\Coding Challenges\Day 3 - Coding Challenge" />
       <recent name="C:\Users\mmkdd27\Documents\GitHub\CT4029-Principles-of-Programming-Code\Coding Challenges\Day 3 - Coding Challenge" />
     </key>
   </component>
@@ -304,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699440184740</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added files">
+      <created>1699455166724</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1699455166724</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
