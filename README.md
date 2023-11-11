@@ -145,7 +145,15 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
    - Challenge File: [three_radio.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/96c219de4e2111e3657a521deab26f28451b9d6a/Coding%20Challenges/Day%203%20-%20Coding%20Challenge/three_radio.py)
      - Description: a GUI window with three radio buttons 
    - Challenge File: [window_with_2_frame.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/96c219de4e2111e3657a521deab26f28451b9d6a/Coding%20Challenges/Day%203%20-%20Coding%20Challenge/window_with_2_frame.py)
-     - Description: a window with two frames and five buttons 
+     - Description: a window with two frames and five buttons
+- ## **Day 4 Coding Challenges**
+  -  :warning: no particular chalange was given today :warning:
+
+- ## **Day 5 Coding Challenges**
+  - Challenge File: [matrix_Multiplication_Multiplication_division.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/2c468e92f5efa16eac9c15ca7266855459184f2a/Coding%20Challenges/Day%205%20-%20Coding%20Challenge/matrix_Multiplication_Multiplication_division.py)
+    - Description: multiplies, subtracts and divides two matrixes 
+  -  Challenge File: [matrix_to_array.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/2c468e92f5efa16eac9c15ca7266855459184f2a/Coding%20Challenges/Day%205%20-%20Coding%20Challenge/matrix_to_array.py)
+     - Description: creates a matrix and reshapes it 
 
   ## Workbooks: Practical exercises :books:
 - Workbook 1: [Session 1 - Workbook.pdf](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/04f71e6adf043f570fba62be921b010d6a8e9a80/Day%201%20-%20Session%201/Session%201%20-%20Workbook.pdf)
