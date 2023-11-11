@@ -2,4 +2,4 @@
 
 - # **Day 4 Coding Challenges**
 
-# :warning: no particular chalange was given today :warning:
+# :warning: no particular challenge was given today :warning:
