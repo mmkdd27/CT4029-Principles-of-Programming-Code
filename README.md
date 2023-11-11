@@ -122,7 +122,7 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
   - Challenge File: [custom_sequnce_printer.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/custom_sequnce_printer.py)
     - Description: prints 2,4,6,10,14,16
   - Challenge File: [double_window.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/cd9510cc9a52bd0d5e3c9cae1f0ca2b1473f81ed/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/double_window.py)
-    - Description: creates two winows 
+    - Description: creates two windows 
   - Challenge File: [factorial_calc.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/factorial_calc.py)
     - Description: calculates factorial 
   - Challenge File: [factorial_function.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/13f3246aee7f339899e2169496004f05e3af9b54/Coding%20Challenges/Day%202%20-%20%20Coding%20Challenge/factorial_function.py)
@@ -147,11 +147,11 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
    - Challenge File: [window_with_2_frame.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/96c219de4e2111e3657a521deab26f28451b9d6a/Coding%20Challenges/Day%203%20-%20Coding%20Challenge/window_with_2_frame.py)
      - Description: a window with two frames and five buttons
 - ## **Day 4 Coding Challenges**
-  -  :warning: no particular chalange was given today :warning:
+  -  :warning: no particular challenge was given today :warning:
 
 - ## **Day 5 Coding Challenges**
   - Challenge File: [matrix_Multiplication_Multiplication_division.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/2c468e92f5efa16eac9c15ca7266855459184f2a/Coding%20Challenges/Day%205%20-%20Coding%20Challenge/matrix_Multiplication_Multiplication_division.py)
-    - Description: multiplies, subtracts and divides two matrixes 
+    - Description: multiplies, subtracts, and divides two matrixes 
   -  Challenge File: [matrix_to_array.py](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/2c468e92f5efa16eac9c15ca7266855459184f2a/Coding%20Challenges/Day%205%20-%20Coding%20Challenge/matrix_to_array.py)
      - Description: creates a matrix and reshapes it 
 
