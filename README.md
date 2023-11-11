@@ -201,4 +201,4 @@ py -m pip install numpy
 | 9       | Arrays and Data visualization                                                         | NumPy Arrays, Graphs & Charts using Matplotlib                                     | Day 5           |
 | 10      | QR code and Password check in Python                                                  | QR code generation and scanning, Password strength check strategies                | Day 4           |
 | 11      | Recap, Q&A, Extra Practical                                                           |                                                                                    | Day -           |
-| 12      | Assignment Workshop                                                                   |                                                                                    | Day -           |
+| 12      | Assignment Workshop                                                                   |                                                                                    | Day 5           |
