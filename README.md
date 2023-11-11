@@ -185,14 +185,13 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - Session 9: [numpy and matplotlib.pptx](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/5dcbf70979cc6d17f175ec8b60fc3d6048847b91/Lectures/Day%205%20-%20Session%209%20-%20numpy%20and%20matplotlib.pptx)
 
 ### Install External libraries :
-copy and paste the code below into windows command line 
-```
+copy and paste the code below into Windows command line 
+```shell
 py -m pip install --upgrade pip
 py -m pip install qrcode
 py -m pip install pandas
 py -m pip install matplotlib
 py -m pip install numpy
-
 ```
 ## Module overview 
 ### [Read full file here ](https://github.com/mmkdd27/CT4029-Principles-of-Programming-Code/blob/1296af2b15c505bb1e39004e32d5d47a8df45b88/Lectures/extra%20files/CT4029_Module%20Guide_23_24%20(2).docx)
